@@ -7,7 +7,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <p align="left"> 
 -->
 
-  <a href="https://github.com/RISHAB-CREATOR?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=RISHAB-CREATOR&theme=radical" alt="RISHAB-CREATOR" width="100%" /></a> </p>
+  <a href="https://github.com/rishabnotfound?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=rishabnotfound&theme=radical" alt="rishabnotfound" width="100%" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="center">
@@ -76,10 +76,10 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 </div>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RISHAB-CREATOR&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="100%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RISHAB-CREATOR&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RISHAB-CREATOR&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%">
-  <img src="https://streak-stats.demolab.com/?user=RISHAB-CREATOR&theme=radical&hide_border=true" style="border: 1px solid white; border-radius: 5px; margin: 10px; height="100%"; width="98%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabnotfound&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="100%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishabnotfound&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishabnotfound&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%">
+  <img src="https://streak-stats.demolab.com/?user=rishabnotfound&theme=radical&hide_border=true" style="border: 1px solid white; border-radius: 5px; margin: 10px; height="100%"; width="98%">
 
 </div>
 <!--
