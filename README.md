@@ -9,7 +9,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 
   <a href="https://github.com/rishabnotfound?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=rishabnotfound&theme=radical" alt="rishabnotfound" width="100%" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> <a><img src="https://komarev.com/ghpvc/?username=rishabnotfound&label=Profile%20views&color=0e75b6&style=flat" alt="" /></a> </p>
 <div align="center">
 
   <h2 align="center">😳 Connect with me :</h2>
